@@ -1,0 +1,13 @@
+Initializing properties files.....
+Launched the browser :-chrome
+Navigated to url :- https://www.amazon.in
+Selected the item Books by using locator :- searchDropdownBox
+Entered the test Harry Potter by using locator :- twotabsearchtextbox
+Clicked on Button by using locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+Initializing properties files.....
+Initializing properties files.....
+Launched the browser :-chrome
+Navigated to url :- https://www.amazon.in
+Selected the item Books by using locator :- searchDropdownBox
+Entered the test Harry Potter by using locator :- twotabsearchtextbox
+Clicked on Button by using locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
